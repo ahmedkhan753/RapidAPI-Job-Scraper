@@ -1,4 +1,3 @@
-# RapidAPI-Job-Scraper
 # Data-Extraction-Pipeline
 
 ## 📄 Overview
